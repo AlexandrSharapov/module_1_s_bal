@@ -19,8 +19,6 @@ students = {
 students = list(students)
 students.sort()
 
-print(grades)
-print(students)
 
 #(sum)сумма всех значений []/ (len)на количество значений[]
 medium_ball = (sum(grades[0]) / len(students[0]),
